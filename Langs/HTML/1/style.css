@@ -1,0 +1,28 @@
+.title {
+    color: rgb(164, 75, 246);
+    font-size: 40px;
+    font-family: 'Code New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    background-color: rgb(61, 61, 61);
+
+
+
+
+    
+}
+
+p {
+    color: silver;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Code New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+}
