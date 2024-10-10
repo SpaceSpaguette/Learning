@@ -1,0 +1,42 @@
+.grad {
+    background-image: linear-gradient(to bottom right, rgb(53, 53, 53), rgb(5, 5, 5));
+    background-repeat: repeat-x;
+    height: 100vh;
+  }
+.title {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+.second {
+    color: rgb(122, 122, 122);
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+}
+.motivation_text {
+    color: rgb(175, 106, 106);
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 25px;
+}
+.effects {
+    width: 100px;
+    height: 100px;
+    background-image: -webkit-image-set();
+    transition: width 2s, height 4s;
+  }
+  
+  .effects:hover {
+    width: 300px;
+    height: 300px;
+  }
