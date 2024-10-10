@@ -1,5 +1,5 @@
 .grad {
-    background-image: linear-gradient(to bottom right, rgb(53, 53, 53), rgb(5, 5, 5));
+    background-image: linear-gradient(to bottom right, rgb(37, 37, 37), rgb(71, 71, 71), rgb(95, 95, 95));
     background-repeat: repeat-x;
     height: 100vh;
   }
@@ -12,16 +12,19 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0 auto;
 }
 .second {
-    color: rgb(122, 122, 122);
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    font-size: 30px;
+  color: rgb(95, 121, 105);
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 25px;
+}
+.third {
+    color: rgb(95, 121, 105)
 }
 .motivation_text {
-    color: rgb(175, 106, 106);
+    color: rgb(45, 118, 214);
     display: block;
     margin: 0 auto;
     text-align: center;

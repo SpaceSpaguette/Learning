@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Notebooks.md",
+                "file": "Programming/Python/CheatSheet Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Notebooks.md",
+                "file": "Programming/Python/CheatSheet Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Notebooks.md"
+                "file": "Programming/Python/CheatSheet Development.md"
               }
             }
           },
@@ -147,24 +147,69 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "82b9313ef0a8abb3",
+  "floating": {
+    "id": "5034bacb9bd93ba9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "92a21127a1435eaf",
+        "type": "window",
+        "children": [
+          {
+            "id": "0ddbcf85b7b0580d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b77aba3a1f17c34",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Programming/Python/CheatSheet Development.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 915,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 3
+      }
+    ]
+  },
+  "active": "3b77aba3a1f17c34",
   "lastOpenFiles": [
-    "Programming/Python/Drawing 2024-08-07 19.36.57.excalidraw.md",
-    "School/Notebooks.md",
-    "Programming/Projects/Untitled.md",
     "Programming/Python/Basics/Mathematical Operations.md",
-    "Programming/Python/CheatSheet Development.md",
     "Programming/Python/Basics/Data types.md",
+    "School/Notebooks.md",
+    "Programming/Python/Drawing 2024-08-07 19.36.57.excalidraw.md",
+    "Programming/Projects/Untitled.md",
+    "Programming/Python/CheatSheet Development.md",
     "Programming/Python/How Python Works.md",
     "Programming/Python/Basics/How python differs from others languages.md",
     "Programming/Python/Basics",
