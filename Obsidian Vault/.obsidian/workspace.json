@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAT/Vybrané systémy řízení báze dat.md",
+                "file": "OSY/KBB Zakony.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAT/Vybrané systémy řízení báze dat.md",
+                "file": "OSY/KBB Zakony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAT/Vybrané systémy řízení báze dat.md",
+                "file": "OSY/KBB Zakony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAT/Vybrané systémy řízení báze dat.md"
+                "file": "OSY/KBB Zakony.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,8 +161,10 @@
   },
   "active": "82b9313ef0a8abb3",
   "lastOpenFiles": [
-    "DAT/Nástroje pro databázové modelování.md",
     "DAT/Komplexní serverová řešení.md",
+    "OSY/KBB Zakony.md",
+    "DAT/Vybrané systémy řízení báze dat.md",
+    "DAT/Nástroje pro databázové modelování.md",
     "POS/Computer networks.md",
     "POS/Descriptions.md",
     "Programming/Python/CheatSheet Development.md",
