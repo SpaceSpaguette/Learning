@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Notebooks.md",
+                "file": "DAT/Vybrané systémy řízení báze dat.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python/CheatSheet Development.md",
+                "file": "DAT/Vybrané systémy řízení báze dat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python/CheatSheet Development.md",
+                "file": "DAT/Vybrané systémy řízení báze dat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python/CheatSheet Development.md"
+                "file": "DAT/Vybrané systémy řízení báze dat.md"
               }
             }
           },
@@ -158,58 +158,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "5034bacb9bd93ba9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "92a21127a1435eaf",
-        "type": "window",
-        "children": [
-          {
-            "id": "0ddbcf85b7b0580d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3b77aba3a1f17c34",
-                "type": "leaf",
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "Programming/Python/CheatSheet Development.md",
-                    "kanbanViewState": {
-                      "kanban-plugin": "board",
-                      "list-collapse": [
-                        false,
-                        false,
-                        false,
-                        false
-                      ]
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 915,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 3
-      }
-    ]
-  },
-  "active": "3b77aba3a1f17c34",
+  "active": "82b9313ef0a8abb3",
   "lastOpenFiles": [
+    "DAT/Nástroje pro databázové modelování.md",
+    "DAT/Komplexní serverová řešení.md",
+    "POS/Computer networks.md",
+    "POS/Descriptions.md",
+    "Programming/Python/CheatSheet Development.md",
+    "School/Notebooks.md",
+    "POS",
+    "WEB",
+    "DAT",
+    "OSY",
     "Programming/Python/Basics/Mathematical Operations.md",
     "Programming/Python/Basics/Data types.md",
-    "School/Notebooks.md",
     "Programming/Python/Drawing 2024-08-07 19.36.57.excalidraw.md",
     "Programming/Projects/Untitled.md",
-    "Programming/Python/CheatSheet Development.md",
     "Programming/Python/How Python Works.md",
     "Programming/Python/Basics/How python differs from others languages.md",
     "Programming/Python/Basics",
@@ -221,10 +185,6 @@
     "Programming/Projects",
     "Programming/Design",
     "Programming/HTML",
-    "Programming/Python",
-    "Self Imp",
-    "School",
-    "Stuff to learn",
     "2024-07-29.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
