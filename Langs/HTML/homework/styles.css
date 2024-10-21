@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.blocks {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+p {
+    color: rgb(170, 0, 255);
+}
