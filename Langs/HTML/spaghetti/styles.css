@@ -2,7 +2,6 @@
     background-image: linear-gradient(to bottom right, rgb(37, 37, 37), rgb(71, 71, 71), rgb(95, 95, 95));
     background-repeat: repeat-x;
     height: 100vh;
-  }
 .title {
 font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(255, 255, 255);
@@ -43,3 +42,4 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 300px;
     height: 300px;
   }
+}
