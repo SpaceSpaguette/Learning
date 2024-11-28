@@ -1,19 +1,35 @@
-class kruznice:
-  def __init__ (self,d):
-    self.d = d if d > 0 else print("Nejde")
+def draw_tree(height, width):
+    # Calculate the number of layers
+    layers = height
 
-  def obsah(self):
-    return round((3.14 * (self.d ** 2)) / 4, 2)
+    # Calculate the width of each layer
+    layer_width = width
 
-  def obvod(self):
-    return round(3.14 * self.d, 2)
+    # Draw the trunk
+    trunk_height = int(height * 0.2)
+    trunk_width = int(width * 0.1)
 
-  def __str__ (self):
-    return f"Kružnice o průměru {self.d} má obvod {self.obvod()} a obsah {self.obsah()}"
+    # Draw the tree
+    for i in range(layers):
+        # Calculate the number of spaces for indentation
+        indent = int((layer_width - (2 * i + 1)) / 2)
 
+        # Draw the layer
+        layer = ' ' * indent + '*' * (2 * i + 1) + ' ' * indent
 
-#Test
-a = kruznice(10)
-print(a.obsah())
-print(a.obvod())
-print(a)
+        # Add leaves to the layer
+        if i > 0:
+            layer = layer.replace('*', 'o', int((2 * i + 1) * 0.7))
+
+        print(layer)
+
+    # Draw the trunk
+    for _ in range(trunk_height):
+        print(' ' * int((layer_width - trunk_width) / 2) + '|' * trunk_width)
+
+# Get user input
+height = int(input("Enter the height of the tree: "))
+width = int(input("Enter the width of the tree: "))
+
+# Draw the tree
+draw_tree(height, width)
