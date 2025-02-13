@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSY/KBB Zakony.md",
+                "file": "School/How to handle things.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "How to handle things"
             }
           }
         ],
@@ -39,8 +41,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +60,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSY/KBB Zakony.md",
+                "file": "POS/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +103,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -103,10 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSY/KBB Zakony.md",
+                "file": "POS/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -116,8 +129,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSY/KBB Zakony.md"
-              }
+                "file": "POS/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -135,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -161,8 +185,14 @@
   },
   "active": "82b9313ef0a8abb3",
   "lastOpenFiles": [
-    "DAT/Komplexní serverová řešení.md",
+    "Untitled 1.canvas",
+    "School/How to handle things.md",
+    "Untitled.canvas",
+    "POS/Untitled.md",
+    "POS/9.1 MAC & IP.md",
+    "POS/Untitled",
     "OSY/KBB Zakony.md",
+    "DAT/Komplexní serverová řešení.md",
     "DAT/Vybrané systémy řízení báze dat.md",
     "DAT/Nástroje pro databázové modelování.md",
     "POS/Computer networks.md",
@@ -187,10 +217,7 @@
     "School/Math",
     "Programming/Projects",
     "Programming/Design",
-    "Programming/HTML",
     "2024-07-29.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Untitled/Untitled Kanban.md",
     "Untitled.md"
   ]

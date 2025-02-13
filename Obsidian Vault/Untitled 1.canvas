@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a33967a54081d5ca","x":-660,"y":-260,"width":250,"height":60,"type":"text","text":""},
+		{"id":"da3b24a3faf47a74","x":-220,"y":-260,"width":250,"height":60,"type":"text","text":""},
+		{"id":"80e641385d92788c","x":160,"y":-40,"width":250,"height":60,"type":"text","text":"Bitmapová grafika"},
+		{"id":"6457ae7b276d0108","x":320,"y":-260,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
