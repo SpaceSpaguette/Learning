@@ -1,0 +1,38 @@
+class Sweets:
+    pass
+
+class Pralines(Sweets):
+    
+    def __init__(self, type_of):
+        
+        self.__type_of = type_of
+
+class Truffles(Sweets):
+
+    def __init__(self, type_of):
+
+        self.__type_of = type_of
+        
+class Factory:
+    
+    def __init__(self):
+        self.__sweets = []
+
+    def showProducts(self):
+        print(f"{self.__sweets}")
+
+    def make(self, kind_of, type_of):
+        
+        if kind_of == "Pralines":
+            self.__sweets.append(Pralines(type_of))
+        
+        elif kind_of == "Truffles":
+            self.__sweets.append(Truffles(type_of))
+            
+sweets = Factory()
+sweets.make("Pralines", "chocolate")
+sweets.make("Truffles", "nougat")
+sweets.make("Pralines", "salted caramel")
+rum = Pralines("rum")
+sweets.showProducts()
+print(rum)
